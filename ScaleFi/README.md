@@ -1,4 +1,4 @@
-# Crypto-lend (ScaleFi)
+# ScaleFi
 
 [![Build Status](https://travis-ci.org/upscaletech/ScaleFi.svg?branch=master)](https://travis-ci.org/upscaletech/ScaleFi)
 
