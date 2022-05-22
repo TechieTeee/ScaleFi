@@ -30,9 +30,9 @@ Some pre-requisites are required in order to utilize the Makefile.
 
 From here you will be able to use make commands assuming npm is already installed.
 
-Assuming you have npm already, Install truffle
+Assuming you have npm already, Install hardhat
 
-`make install truffle`
+`make install hardhat`
 
 `make install_deps`
 
@@ -42,15 +42,15 @@ Assuming you have npm already, Install truffle
 
 ## Tests
 
-Start truffle and its development blockchain with
+Start hardhat and its development blockchain with
 
 `make start_console`
 
-Run the example migrations as well as the accompanying tests inside the truffle console
+Run the example migrations as well as the accompanying tests inside the hardhat console
 
 ```
-truffle(develop)> migrate --reset
-truffle(develop)> test
+hardhat(develop)> migrate --reset
+hardhat(develop)> test
 
 ```
 
@@ -66,5 +66,3 @@ We are working on it.
 Want to hack on ScaleFi Protocol? Awesome!
 
 ScaleFi Protocol is an Open Source project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
-
-Ready to jump in? Check docs.ScaleFi.com/#contributing.
