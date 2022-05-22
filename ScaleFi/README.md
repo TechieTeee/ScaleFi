@@ -26,10 +26,6 @@ A Makefile is provided for easy setup of the environment.
 
 Some pre-requisites are required in order to utilize the Makefile.
 
-`git clone https://github.com/crypto-lend/cryptolend.eth.git # clone this repository`
-
-From here you will be able to use make commands assuming npm is already installed.
-
 Assuming you have npm already, Install hardhat
 
 `make install hardhat`
