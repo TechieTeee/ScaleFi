@@ -2,9 +2,8 @@
 
 [![Build Status](https://travis-ci.org/upscaletech/ScaleFi.svg?branch=master)](https://travis-ci.org/upscaletech/ScaleFi)
 
-ScaleFi Protocol has been created to provide a secure, flexible, open source foundation for decentralized loan marketplace on the Ethereum blockchain (as of now). We provide the pieces necessary to create a decentralized lending exchange, including the requisite lending assets, clearing and collateral pool infrastructure, enabling third parties to build applications for lending.
+ScaleFi has been created to help businesses scale with data driven, coin allocation in their accounts and portfolios. Additionally, through the machine learning alrogithmn risk reduction is optimized for the user.
 
-Join our telegram community to interact with members of our dev staff and other contributors.
 
 ## Future
 
@@ -49,16 +48,3 @@ hardhat(develop)> migrate --reset
 hardhat(develop)> test
 
 ```
-
-### Running tests with coverage enabled
-
-The most convenient way to run tests with coverage enabled is to run them with help of Docker orchestration. This ensures, that the coverage results will match the ones on Travis CI.
-
-We are working on it.
-
-
-## Contribution
-
-Want to hack on ScaleFi Protocol? Awesome!
-
-ScaleFi Protocol is an Open Source project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
