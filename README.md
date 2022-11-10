@@ -49,7 +49,7 @@ hardhat(develop)> test
 
 ```
 
-## Stacks Used **
+## Stacks Used
 
 - Defi Ecosystem: We’re targeting the DeFi ecosystem because we want to onboard small businesses who are not familiar with DeFi into the decentralized arena by allowing them to maximize their savings & grow their assets.
 - Celo: We’re using Celo to integrate a staking protocol for the users assets in order to give them access to stable currencies, low multi-currency gas fees, phone number mapping & cross chain interoperability.
